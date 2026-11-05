@@ -1,0 +1,8 @@
+
+<?php
+
+// Redirect customers to the login page
+header("Location: login.php");
+exit;
+
+?>
